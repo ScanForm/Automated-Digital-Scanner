@@ -36,3 +36,17 @@ We wanted to create an affordable and simple to use 3 dimensional scanner and pr
 -	Initially we wanted to use a cloud platform such as Azure to host the RAW photos, but we did not have the time to figure out how to automate the upload from the DSLR
 -	Using a smart phone would have been ideal from a consumer standpoint, not everyone will have a DSLR available. A DSLR was easier to get working within the 24 hour time limit.
 -	Finally, we wanted to mount the camera to the front of the extruder and use the filament gear to tilt the camera axis by 30 degrees. As the Z axis moves up the camera will move off of the object, automating this would have greatly reduced manual intervention.
+-	
++   Copyright 2015 Justin Vorel and Colin Tucker
++
++   Licensed under the Apache License, Version 2.0 (the "License");
++   you may not use this file except in compliance with the License.
++   You may obtain a copy of the License at
++
++       http://www.apache.org/licenses/LICENSE-2.0
++
++   Unless required by applicable law or agreed to in writing, software
++   distributed under the License is distributed on an "AS IS" BASIS,
++   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
++   See the License for the specific language governing permissions and
++ limitations under the License.
